@@ -1,0 +1,22 @@
+{
+  "name": "color-clock",
+  "version": "1.0.0",
+  "description": "\"color clock npm example\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo 'Hello World!'",
+    "start": "serve"
+  },
+  "keywords": [
+    "color-clock",
+    "package.json",
+    "npm",
+    "init"
+  ],
+  "author": "Seda Unal justsedaunal@outlook.com",
+  "license": "ISC",
+  "dependencies": {
+    "date-fns": "^2.29.3",
+    "serve": "^14.1.2"
+  }
+}
